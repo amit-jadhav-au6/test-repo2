@@ -1,0 +1,12 @@
+#TopBar{      
+       
+    color:orange;   
+    font-size: 30px;     
+    border: 1px solid #3434;
+    background-color: blue;
+    color: yellow;   
+    position: fixed;
+    left: 150px;
+    top: 100px;
+   
+}
